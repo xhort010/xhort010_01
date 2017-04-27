@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<hryvse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="herni_koutek_schema.xsd">
+	<konfigurace>
+		<lang>cs</lang>
+		<coding>UTF-8</coding>
+		<aplication_version>1.0</aplication_version>
+		<background_color>#FFF</background_color>
+		<font_color>#000</font_color>
+		<site_name>Herní koutek</site_name>
+		<aplication_name>Herní koutek</aplication_name>
+		<meta>true</meta>
+		<description>true</description>
+		<pouzivani_cookie>false</pouzivani_cookie>
+		<show_reklamy>false</show_reklamy>
+		<app_image>http://hernikoutek.cz/siteimage.png</app_image>
+		<stylesheet type="text/css">http://www.hernikoutek.cz/style.css</stylesheet>
+		<screen_resolution>
+			<responsive>true</responsive>
+			<vyska>1366</vyska>
+			<sirka>768</sirka>
+		</screen_resolution>
+		<autor_aplikace>appGroupe</autor_aplikace>
+		<kontakt_mail>admin@mailhk.cz</kontakt_mail>
+		<zdroj_aplikace>https://www.hernikoutek.cz</zdroj_aplikace>
+		<socialni_site>facebook.com/hernikoutek</socialni_site>
+		<server_hosting>wz.cz</server_hosting>
+	</konfigurace>
+		
+	<hra id="1" zeme_puvodu="Německo" druh="Playstation hra">
+		<nazev_hry lang="cs">Racing Forza 18</nazev_hry>
+		<autor>TH Sport</autor>
+		<klicova_slova>zavody, auta, okruh, rallycross</klicova_slova>
+		<vydavatelstvi>PlayS+ Games</vydavatelstvi>
+		<zanr>zavodni</zanr>
+		<rok_vydani>2016-03-15</rok_vydani>
+		<jazyk_hry>cs</jazyk_hry>
+		<kod_hry>05054664</kod_hry>
+		<game_code GCD="true">978-80-7432-790-2</game_code>
+		<pocet_minut_hrani>256</pocet_minut_hrani>
+		<stav_hry>Nové</stav_hry>
+		<stav>Na skladě</stav>
+		<pocet_kusu>3</pocet_kusu>
+		<cena mena="Kč" cena_s_DPH="true">699</cena>
+		<popis_hry>Skoro pět stovek aut, tři desítky tratí, závodění v noci, v dešti, v sedmdesátkách, šedesátkách, dokonce i třicítkách (mluvíme o dekádách, nikoliv o maximální povolené rychlosti). Čistě papírovým výčtem novinek šesté Forzy bychom mohli "objektivně" tuhle recenzi uzavřít hned v prvním odstavci. Ano, šestka je o notný kus lepší než pětka. Víc všeho, méně mikrotransakcí a napravení dávných křivd. Díky, díky, díky... a můžeme jít domů, oprášit volant a jezdit až do konce věků. Nebo ne?</popis_hry>
+		<rozsireni show="true">
+			<hodnoceni>5</hodnoceni>
+			<pocet_recenzi>2</pocet_recenzi>
+			<komentare>0</komentare>
+			<zajimavosti>Forza překvapila</zajimavosti>
+		</rozsireni>		
+		<nahled_hry nahledID="001" format="img">
+			<odkaz_na_soubor>http://www.google.com/nahled/001</odkaz_na_soubor>
+			<velikost>
+				<vyskaNahled>100</vyskaNahled>
+				<sirkaNahled>100</sirkaNahled>
+			</velikost>
+			<zvetseni>true</zvetseni>
+			<popis>Obrázek 1</popis>
+		</nahled_hry>		
+		<informace_o_zaznamu existence="true">
+			<datum_pridani>2015-05-23</datum_pridani>
+			<posledni_zmena>2016-06-12</posledni_zmena>
+			<autor_zaznamu>Franta</autor_zaznamu>			
+		</informace_o_zaznamu>
+	</hra>
+	
+	<hra id="2" zeme_puvodu="Česká Republika" druh="Xbox hra">
+		<nazev_hry lang="en">Bus driver</nazev_hry>
+		<autor>TH Sport</autor>
+		<klicova_slova>řízení autobusu, řidič, městská hromadná doprava</klicova_slova>
+		<vydavatelstvi>XBoX Games</vydavatelstvi>
+		<zanr>zavodni</zanr>
+		<rok_vydani>2015-10-24</rok_vydani>
+		<jazyk_hry>en</jazyk_hry>
+		<kod_hry>79565689</kod_hry>
+		<game_code GCD="true">978-80-7390-018-2</game_code>
+		<pocet_minut_hrani>366</pocet_minut_hrani>
+		<stav_hry>Otevřené</stav_hry>
+		<stav>Na prodejně</stav>
+		<pocet_kusu>1</pocet_kusu>
+		<cena mena="Kč" cena_s_DPH="false">499</cena>
+		<popis_hry>Bus Driver je realistický simulátor řízení autobusu, který vám umožní stát se řidičem jednoho z 12 linkových autobusů podle vašeho výběru. Ve hře je vaším úkolem přepravovat cestující na pravidelné městské lince, kde musíte jet podle harmonogramu po plánované trase a přitom samozřejmě dodržovat pravidla silničního provozu. Hra vám nabízí zajímavé městské prostředí s několika obvody, přičemž si můžete vybrat z 30 tras v různých klimatických podmínkách a rozdílných denních dobách. </popis_hry>
+		<rozsireni show="true">
+			<hodnoceni>5</hodnoceni>
+			<pocet_recenzi>15</pocet_recenzi>
+			<komentare>3</komentare>
+			<zajimavosti>Nejskutečnější simulátor</zajimavosti>
+		</rozsireni>		
+		<nahled_hry nahledID="002" format="pdf">
+			<odkaz_na_soubor>http://www.google.com/nahled/002.pdf</odkaz_na_soubor>
+			<velikost>
+				<vyskaNahled>180</vyskaNahled>
+				<sirkaNahled>200</sirkaNahled>
+			</velikost>
+			<zvetseni>true</zvetseni>
+			<popis>Obrázek 2 bus</popis>
+		</nahled_hry>		
+		<informace_o_zaznamu existence="true">
+			<datum_pridani>2016-08-12</datum_pridani>
+			<posledni_zmena>2016-12-12</posledni_zmena>
+			<autor_zaznamu>Petr Klapil</autor_zaznamu>			
+		</informace_o_zaznamu>
+	</hra>
+	
+	<hra id="3" zeme_puvodu="Francie" druh="Xbox hra">
+		<nazev_hry lang="cs">Gangster band</nazev_hry>
+		<autor>HráčiCZ</autor>
+		<klicova_slova>Gangster band</klicova_slova>
+		<vydavatelstvi>XBoX Games</vydavatelstvi>
+		<zanr>Válečná/Akční</zanr>
+		<rok_vydani>2009-11-14</rok_vydani>
+		<jazyk_hry>cs</jazyk_hry>
+		<kod_hry>654896512</kod_hry>
+		<game_code GCD="true">28-015-67</game_code>
+		<pocet_minut_hrani>356</pocet_minut_hrani>
+		<stav_hry>Nové</stav_hry>
+		<stav>Na prodejně</stav>
+		<pocet_kusu>2</pocet_kusu>
+		<cena mena="Kč" cena_s_DPH="true">320</cena>
+		<popis_hry>Dramatický příběh s celou řadou výrazných postav a dramatických situací.Bohatý arzenál zbraní, který hráči využijí v akčních přestřelkách.Jedinečné honičky v celé řadě historických vozů. Skvělé grafické zpracování hry. </popis_hry>
+		<rozsireni show="true">
+			<hodnoceni>4</hodnoceni>
+			<pocet_recenzi>16</pocet_recenzi>
+			<komentare>8</komentare>
+			<zajimavosti>Česko stale umí vyvíjet hry</zajimavosti>
+		</rozsireni>		
+		<nahled_hry nahledID="003" format="png">
+			<odkaz_na_soubor>http://www.google.com/nahled/003.png</odkaz_na_soubor>
+			<velikost>
+				<vyskaNahled>180</vyskaNahled>
+				<sirkaNahled>200</sirkaNahled>
+			</velikost>
+			<zvetseni>true</zvetseni>
+			<popis>Obrázek 3</popis>
+		</nahled_hry>		
+		<informace_o_zaznamu existence="true">
+			<datum_pridani>2014-08-22</datum_pridani>
+			<posledni_zmena>2017-03-17</posledni_zmena>
+			<autor_zaznamu>Kaňka</autor_zaznamu>			
+		</informace_o_zaznamu>
+	</hra>
+	
+	<hra id="4" zeme_puvodu="Nemecko" druh="Playstation hra">
+		<nazev_hry lang="de">Kamaradi</nazev_hry>
+		<autor>Socialbakers</autor>
+		<klicova_slova>pratelstvi, rodina, kamaradi, vztahy</klicova_slova>
+		<vydavatelstvi>PlayS+ Games</vydavatelstvi>
+		<zanr>socialni/spolecenske</zanr>
+		<rok_vydani>2014-11-20</rok_vydani>
+		<jazyk_hry>cs</jazyk_hry>
+		<kod_hry>365789456</kod_hry>
+		<game_code GCD="true">978-80-7390-142-4</game_code>
+		<pocet_minut_hrani>1000</pocet_minut_hrani>
+		<stav_hry>Použité</stav_hry>
+		<stav>Na prodejně</stav>
+		<pocet_kusu>1</pocet_kusu>
+		<cena mena="Kč" cena_s_DPH="true">620</cena>
+		<popis_hry>Kamarádi je hra z kategorie simulací života, která vám umožní hrát si se životem tak jako nikdy předtím. Vytvářejte nové inteligentní Simíky, kteří prožívají emoce. Každá jejich reakce má svůj důvod a vychází z aktuální situace a jejich emocionálního stavu. Hrajte si s úplně novými kreativními nástroji, se kterými je legrace a snadno se používají. Vytvořte své Simíky pomocí nástroje Vytvořit Simíka a postavte jedinečné domy prostřednictvím dotykového režimu výstavby místností. Ovládejte mysl, tělo i srdce svých Simíků při dynamickém a na emoce bohatém hraní, které probudí vaše příběhy k životu.</popis_hry>
+		<rozsireni show="true">
+			<hodnoceni>4</hodnoceni>
+			<pocet_recenzi>0</pocet_recenzi>
+			<komentare>1</komentare>
+			<zajimavosti>Z reálného života </zajimavosti>
+		</rozsireni>		
+		<nahled_hry nahledID="004" format="png">
+			<odkaz_na_soubor>http://www.google.com/nahled/004.png</odkaz_na_soubor>
+			<velikost>
+				<vyskaNahled>280</vyskaNahled>
+				<sirkaNahled>300</sirkaNahled>
+			</velikost>
+			<zvetseni>false</zvetseni>
+			<popis>Obrázek 4 Wotsen</popis>
+		</nahled_hry>		
+		<informace_o_zaznamu existence="true">
+			<datum_pridani>2015-06-15</datum_pridani>
+			<posledni_zmena>2017-03-25</posledni_zmena>
+			<autor_zaznamu>Leprch</autor_zaznamu>			
+		</informace_o_zaznamu>
+	</hra>
+	
+	<hra id="5" zeme_puvodu="Anglie" druh="Wii hra">
+		<nazev_hry lang="cs">Sport games</nazev_hry>
+		<autor>EA Games</autor>
+		<klicova_slova>sport, tenis, golf, interaktivni hry </klicova_slova>
+		<vydavatelstvi>GamesproWii</vydavatelstvi>
+		<zanr>Sportovni</zanr>
+		<rok_vydani>2017-02-19</rok_vydani>
+		<jazyk_hry>en</jazyk_hry>
+		<kod_hry>46789123</kod_hry>
+		<game_code GCD="true">80-9874-632-45</game_code>
+		<pocet_minut_hrani>128</pocet_minut_hrani>
+		<stav_hry>Nové</stav_hry>
+		<stav>Na skladě</stav>
+		<pocet_kusu>10</pocet_kusu>
+		<cena mena="eu" cena_s_DPH="false">250</cena>
+		<popis_hry>Děj hry se odehrává v uzavřeném prostoru Penziónu U klášterní studny, v němž se za sněhové bouře schází velmi nesourodá skupina osob, z nichž každá má své tajemství i společné vazby.</popis_hry>
+		<rozsireni show="true">
+			<hodnoceni>2</hodnoceni>
+			<pocet_recenzi>3</pocet_recenzi>
+			<komentare>1</komentare>
+			<zajimavosti>Sport nadoma </zajimavosti>
+		</rozsireni>		
+		<nahled_hry nahledID="005" format="jpg">
+			<odkaz_na_soubor>http://www.google.com/nahled/005.jpg</odkaz_na_soubor>
+			<velikost>
+				<vyskaNahled>280</vyskaNahled>
+				<sirkaNahled>300</sirkaNahled>
+			</velikost>
+			<zvetseni>false</zvetseni>
+			<popis>Obrázek 5 sport</popis>
+		</nahled_hry>		
+		<informace_o_zaznamu existence="true">
+			<datum_pridani>2005-01-14</datum_pridani>
+			<posledni_zmena>2017-02-04</posledni_zmena>
+			<autor_zaznamu>Tralala</autor_zaznamu>			
+		</informace_o_zaznamu>
+	</hra>
+</hryvse>

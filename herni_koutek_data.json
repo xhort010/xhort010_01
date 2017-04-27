@@ -1,0 +1,121 @@
+
+      [
+	   
+      
+        {
+        "Kódování": "UTF-8",
+        "Verze aplikace": "1.0",
+	"Název aplikace": "Herní koutek",
+	"Autor aplikace": "appGroupe",
+	"Kontakt": "admin@mailhk.cz"
+        },
+	  
+      
+        {                                                    
+            "ID": "1",               
+            "Typ hry": "Playstation hra",
+            "Název hry": "Racing Forza 18",
+            "Rok vydání": "2016-03-15",
+            "Stav zboží": "Na skladě"
+        },
+        {                                                    
+            "ID": "2",               
+            "Typ hry": "Xbox hra",
+            "Název hry": "Bus driver",
+            "Rok vydání": "2015-10-24",
+            "Stav zboží": "Na prodejně"
+        },
+        {                                                    
+            "ID": "3",               
+            "Typ hry": "Xbox hra",
+            "Název hry": "Gangster band",
+            "Rok vydání": "2009-11-14",
+            "Stav zboží": "Na prodejně"
+        },
+        {                                                    
+            "ID": "4",               
+            "Typ hry": "Playstation hra",
+            "Název hry": "Kamaradi",
+            "Rok vydání": "2014-11-20",
+            "Stav zboží": "Na prodejně"
+        },
+        {                                                    
+            "ID": "5",               
+            "Typ hry": "Wii hra",
+            "Název hry": "Sport games",
+            "Rok vydání": "2017-02-19",
+            "Stav zboží": "Na skladě"
+        },
+      
+	  
+               
+            {                                                               
+                "ID": "1",      
+                "Jazyk": "cs",
+                "Cena": "699",         
+                "Název hry": "Racing Forza 18"
+            },     
+            {                                                               
+                "ID": "4",      
+                "Jazyk": "cs",
+                "Cena": "620",         
+                "Název hry": "Kamaradi"
+            },     
+            {                                                               
+                "ID": "2",      
+                "Jazyk": "en",
+                "Cena": "499",         
+                "Název hry": "Bus driver"
+            },     
+            {                                                               
+                "ID": "3",      
+                "Jazyk": "cs",
+                "Cena": "320",         
+                "Název hry": "Gangster band"
+            },     
+            {                                                               
+                "ID": "5",      
+                "Jazyk": "en",
+                "Cena": "250",         
+                "Název hry": "Sport games"
+            },
+      
+	  
+                
+               
+            {                                                               
+                    "ID": "1",
+                    "Název hry": "Racing Forza 18",
+                    "Jazyk": "cs",
+                    "Cena": "699",  
+                    "Stav zboží": "Na skladě"      
+            },   
+            {                                                               
+                    "ID": "3",
+                    "Název hry": "Gangster band",
+                    "Jazyk": "cs",
+                    "Cena": "320",  
+                    "Stav zboží": "Na prodejně"      
+            },   
+            {                                                               
+                    "ID": "4",
+                    "Název hry": "Kamaradi",
+                    "Jazyk": "cs",
+                    "Cena": "620",  
+                    "Stav zboží": "Na prodejně"      
+            },
+
+                 
+                {                                                               
+                        "ID": "2",
+                        "Název hry": "Bus driver",
+                        "Platforma": "XBoX Games"    
+                },   
+                {                                                               
+                        "ID": "3",
+                        "Název hry": "Gangster band",
+                        "Platforma": "XBoX Games"    
+                }
+      ]
+      
+  
